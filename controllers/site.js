@@ -46,8 +46,8 @@ exports.index = function (req, res, next) {
       list_topic_count: limit,
       recent_tags: recent_tags,
       hot_topics: hot_topics,
-      stars: stars,
-      tops: tops,
+      //stars: stars,
+      //tops: tops,
       no_reply_topics: no_reply_topics,
       pages: pages,
       keyword: keyword
